@@ -1,0 +1,13 @@
+{
+    "name" : "cj7",
+    "version" : "1.0.0",
+    "main" : "index.js",
+    "scripts" : {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.11.0",
+        "play-dl" : "^1.7.5",
+        "dotenv": "^16.3.1"
+    }
+}
