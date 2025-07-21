@@ -1,13 +1,14 @@
 {
-    "name" : "cj7",
-    "version" : "1.0.0",
-    "main" : "index.js",
-    "scripts" : {
+    "name": "cj7",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
         "start": "node index.js"
     },
     "dependencies": {
+        "@discordjs/voice": "^0.18.0",
         "discord.js": "^14.11.0",
-        "play-dl" : "^1.7.5",
-        "dotenv": "^16.3.1"
+        "dotenv": "^16.3.1",
+        "play-dl": "^1.7.5"
     }
 }
